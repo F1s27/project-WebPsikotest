@@ -1,0 +1,196 @@
+.petunjuk-container {
+  max-width: 830px;
+  margin: 0 auto;
+  padding: 32px 24px 60px;
+}
+
+.petunjuk-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #b45309;
+  margin-bottom: 8px;
+}
+
+.petunjuk-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 34px;
+  color: #1f2937;
+  margin: 0 0 12px 0;
+}
+
+.petunjuk-desc {
+  color: #6b7280;
+  line-height: 1.6;
+  max-width: 650px;
+  margin-bottom: 28px;
+}
+
+.petunjuk-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.petunjuk-stat-box {
+  background-color: #ffffff;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  padding: 16px;
+  text-align: center;
+}
+
+.petunjuk-stat-number {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 26px;
+  color: #1f2937;
+  margin: 0;
+}
+
+.petunjuk-stat-label {
+  font-size: 11px;
+  color: #6b7280;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 6px 0 0 0;
+}
+
+.petunjuk-notice {
+  background-color: #faf3e2;
+  border: 1px solid #f0e2bd;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 24px;
+}
+
+.petunjuk-notice-title {
+  font-weight: 700;
+  color: #92660c;
+  margin: 0 0 6px 0;
+}
+
+.petunjuk-notice-desc {
+  color: #7a5b1f;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.petunjuk-card {
+  background-color: #ffffff;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+  padding: 28px;
+  margin-bottom: 20px;
+}
+
+.petunjuk-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.petunjuk-card-heading h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 19px;
+  color: #1f2937;
+  margin: 0;
+}
+
+.petunjuk-number {
+  width: 26px;
+  height: 26px;
+  min-width: 26px;
+  border-radius: 50%;
+  background-color: #b45309;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.petunjuk-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.petunjuk-list-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid #f3f4f6;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.petunjuk-list-item:last-child {
+  border-bottom: none;
+}
+
+.petunjuk-dash {
+  color: #b45309;
+  flex-shrink: 0;
+}
+
+.petunjuk-example-box {
+  background-color: #f9fafb;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.petunjuk-radio-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 14px 16px;
+  cursor: pointer;
+  color: #374151;
+}
+
+.petunjuk-radio-option.selected {
+  border-color: #0f766e;
+  background-color: #f0fdfa;
+}
+
+.petunjuk-radio-option input {
+  accent-color: #0f766e;
+}
+
+.petunjuk-atau {
+  text-align: center;
+  font-size: 11px;
+  color: #9ca3af;
+  letter-spacing: 0.05em;
+  margin: 10px 0;
+}
+
+.petunjuk-example-note {
+  font-size: 13px;
+  color: #0f766e;
+  margin: 14px 0 0 0;
+}
+
+.petunjuk-button {
+  width: 100%;
+  padding: 14px;
+  border-radius: 999px;
+  border: none;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+  background-color: #0f766e;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.petunjuk-button:hover {
+  background-color: #115e59;
+}

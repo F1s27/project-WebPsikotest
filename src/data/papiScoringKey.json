@@ -1,0 +1,30 @@
+{
+  "dimensions": [
+    { "code": "N", "group": "Work Direction", "name": "Need to finish task", "keys": ["90.2","79.2","68.2","57.2","46.2","35.2","24.2","13.2","2.2"] },
+    { "code": "G", "group": "Work Direction", "name": "Hard intense worked", "keys": ["1.1","11.1","21.1","31.1","41.1","51.1","61.1","71.1","81.1"] },
+    { "code": "A", "group": "Work Direction", "name": "Need to achieve", "keys": ["2.1","3.2","14.2","25.2","36.2","47.2","58.2","69.2","80.2"] },
+
+    { "code": "L", "group": "Leadership", "name": "Leadership role", "keys": ["12.1","22.1","32.1","42.1","52.1","62.1","72.1","82.1","81.2"] },
+    { "code": "P", "group": "Leadership", "name": "Need to control others", "keys": ["13.1","3.1","4.2","15.2","26.2","37.2","48.2","59.2","70.2"] },
+    { "code": "I", "group": "Leadership", "name": "Ease in decision making", "keys": ["23.1","33.1","43.1","53.1","63.1","73.1","83.1","82.2","71.2"] },
+
+    { "code": "T", "group": "Activity", "name": "Pace", "keys": ["34.1","44.1","54.1","64.1","74.1","84.1","83.2","72.2","61.2"] },
+    { "code": "V", "group": "Activity", "name": "Vigorous type", "keys": ["45.1","55.1","65.1","75.1","85.1","84.2","73.2","62.2","51.2"] },
+
+    { "code": "O", "group": "Social Nature", "name": "Need for closeness and affection", "keys": ["46.1","36.1","26.1","16.1","6.1","7.2","18.2","29.2","40.2"] },
+    { "code": "B", "group": "Social Nature", "name": "Need to belong to groups", "keys": ["35.1","25.1","15.1","5.1","6.2","17.2","28.2","39.2","50.2"] },
+    { "code": "S", "group": "Social Nature", "name": "Social extension", "keys": ["56.1","66.1","76.1","86.1","85.2","74.2","63.2","52.2","41.2"] },
+    { "code": "X", "group": "Social Nature", "name": "Need to be noticed", "keys": ["24.1","14.1","4.1","5.2","16.2","27.2","38.2","49.2","60.2"] },
+
+    { "code": "C", "group": "Work Style", "name": "Organized type", "keys": ["89.1","88.2","77.2","66.2","55.2","44.2","33.2","22.2","11.2"] },
+    { "code": "D", "group": "Work Style", "name": "Interest in working with details", "keys": ["78.1","88.1","87.2","76.2","65.2","54.2","43.2","32.2","21.2"] },
+    { "code": "R", "group": "Work Style", "name": "Theoretical type", "keys": ["67.1","77.1","87.1","86.2","75.2","64.2","53.2","42.2","31.2"] },
+
+    { "code": "Z", "group": "Temperament", "name": "Need for change", "keys": ["57.1","47.1","37.1","27.1","17.1","7.1","8.2","19.2","30.2"] },
+    { "code": "E", "group": "Temperament", "name": "Emotional resistant", "keys": ["89.2","78.2","67.2","56.2","45.2","34.2","23.2","12.2","1.2"] },
+    { "code": "K", "group": "Temperament", "name": "Need to be forceful", "keys": ["68.1","58.1","48.1","38.1","28.1","18.1","8.1","9.2","20.2"] },
+
+    { "code": "F", "group": "Followership", "name": "Need to support authority", "keys": ["79.1","69.1","59.1","49.1","39.1","29.1","19.1","9.1"] },
+    { "code": "W", "group": "Followership", "name": "Need for rules and supervision", "keys": ["90.1","80.1","70.1","60.1","50.1","40.1","30.1","20.1","10.1"] }
+  ]
+}
