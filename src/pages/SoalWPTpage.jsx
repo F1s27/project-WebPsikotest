@@ -20,8 +20,8 @@ function PetunjukPAPIpage() {
   ]
 
   const handleMulai = () => {
-    navigate('/SoalPAPI/test')
-  }
+  navigate('/SoalWPT/test')
+}
 
   return (
     <div className="petunjuk-container">

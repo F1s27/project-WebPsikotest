@@ -34,7 +34,7 @@ function PetunjukPAPIpage() {
 
       <div className="petunjuk-stats">
         <div className="petunjuk-stat-box">
-          <p className="petunjuk-stat-number">40</p>
+          <p className="petunjuk-stat-number">90</p>
           <p className="petunjuk-stat-label">Pasangan</p>
         </div>
         <div className="petunjuk-stat-box">

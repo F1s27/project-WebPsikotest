@@ -12,6 +12,10 @@ import PetunjukPAPIpage from './pages/PetunjukPAPIpage'
 import TestPAPIpage from './pages/TestPAPIpage'
 import SoalWPTpage from './pages/SoalWPTpage'
 import SelesaiPAPIpage from './pages/SelesaiPAPIpage'
+import TestWPTpage from './pages/TestWPTpage'
+import SelesaiWPTpage from './pages/SelesaiWPTpage'
+import Pengaturanpage from './pages/Pengaturanpage'
+
 
 
 function App() {
@@ -27,6 +31,9 @@ function App() {
          <Route path="/SoalPAPI/test" element={<Routers Children={<TestPAPIpage/>}/>}/>
          <Route path="/SoalWPT" element={<Routers Children={<SoalWPTpage/>}/>}/>
          <Route path="/SoalPAPI/selesai" element={<Routers Children={<SelesaiPAPIpage/>}/>}/>
+         <Route path="/SoalWPT/test" element={<Routers Children={<TestWPTpage/>}/>}/>
+         <Route path="/SoalWPT/selesai" element={<Routers Children={<SelesaiWPTpage/>}/>}/>
+         <Route path="/Pengaturan" element={<Routers Children={<Pengaturanpage/>}/>}/>
       </Routes>
   )
 }
